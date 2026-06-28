@@ -1,3 +1,7 @@
+---
+title: DORA Metrics
+---
+
 # DORA Metrics — QA Dashboard System
 
 ## Overview

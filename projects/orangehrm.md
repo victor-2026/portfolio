@@ -1,3 +1,7 @@
+---
+title: "Project: OrangeHRM"
+---
+
 # Project 2: OrangeHRM — Rapid Bootstrap → Full Coverage
 
 **Type:** Broad — enter unfamiliar system, deliver working tests in one session

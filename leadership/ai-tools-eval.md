@@ -1,3 +1,7 @@
+---
+title: AI Tool Evaluation
+---
+
 # AI Tool Evaluation — 7 Tools Benchmarked
 
 ## Decision Framework

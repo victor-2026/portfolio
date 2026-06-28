@@ -1,3 +1,7 @@
+---
+title: "Project: Buzzhive"
+---
+
 # Project 1: Buzzhive — Full Transformation
 
 **Type:** Deep — legacy to production-grade QA system

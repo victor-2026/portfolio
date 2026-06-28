@@ -1,3 +1,7 @@
+---
+title: Test Strategy
+---
+
 # Test Strategy — My Framework
 
 ## Philosophy

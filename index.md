@@ -1,3 +1,7 @@
+---
+title: QA/Test Lead Portfolio
+---
+
 # Victor Ematin — AI Quality Engineering Lead
 
 **$0 budget. Production-grade systems. Verifiable results.**
@@ -31,11 +35,11 @@ Three things every project gets:
 
 ## Quick Links
 
-- [Test Strategy →](leadership/strategy.md)
-- [DORA Metrics System →](projects/dora-systems.md)
-- [Buzzhive Case Study →](projects/buzzhive.md)
-- [OrangeHRM Case Study →](projects/orangehrm.md)
-- [AI Tool Benchmarks →](leadership/ai-tools-eval.md)
+- [Test Strategy →](leadership/strategy)
+- [DORA Metrics System →](projects/dora-systems)
+- [Buzzhive Case Study →](projects/buzzhive)
+- [OrangeHRM Case Study →](projects/orangehrm)
+- [AI Tool Benchmarks →](leadership/ai-tools-eval)
 - [Resume →](https://github.com/victor-2026)
 
 ---

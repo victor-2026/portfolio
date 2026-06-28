@@ -1,3 +1,7 @@
+---
+title: "Project: DORA Metrics System"
+---
+
 # Project: DORA Metrics System
 
 **Type:** QA observability — real-time delivery quality measurement
