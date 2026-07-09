@@ -30,35 +30,13 @@ Adapted DORA's four core metrics + one reliability metric for QA:
 
 ---
 
-## Architecture
+## Dashboard View
 
-```
-Grafana (5 Dashboards)
-  ├── Coverage Dashboard
-  │     ├── API coverage % (49/52 → 94%)
-  │     ├── Mutation caught (34/34 → 100%)
-  │     └── Contract coverage (28/28 → 100%)
-  │
-  ├── Health Dashboard
-  │     ├── Pass/fail ratio over time
-  │     ├── Flaky test count (0 post-refactor)
-  │     └── Run duration trend
-  │
-  ├── Quality Gates Dashboard
-  │     ├── Gate pass rate per type
-  │     └── Blocking vs non-blocking ratio
-  │
-  ├── DORA Core
-  │     ├── CFR (mutation escape rate)
-  │     ├── MTTR (time to green)
-  │     ├── Lead Time (bug → fix)
-  │     └── Deploy Frequency (test runs/week)
-  │
-  └── AI Agent Effectiveness
-        ├── Per-tool pass rate
-        ├── Cost per passing test
-        └── Auto-repair rate
-```
+![DORA Core Dashboard](./dora-core-dashboard.png)
+
+*DORA Core dashboard — data from 3 CI runs (May 15 – Jun 3). Live Grafana, populated from CI/CD pipeline runs.*
+
+## Architecture
 
 ---
 

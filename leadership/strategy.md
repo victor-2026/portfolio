@@ -45,7 +45,26 @@ Every PR must pass all gates before merge. No exceptions.
 1. **No test without a traced risk** — traceability matrix linking test cases to requirements to risks
 2. **No coverage claim without a verifiable number** — every claim is backed by a CI check
 3. **No AI tool without a benchmark** — cost, correctness, reliability measured per tool
-4. **Budget never blocks quality** — $0 is sufficient for production-grade assurance
+4.  **Budget never blocks quality** — $0 is sufficient for production-grade assurance
+5.  **Each layer targets a failure mode** — see [Risk Communication Framework](#risk-communication-framework) for how this translates to stakeholder reporting
+
+---
+
+## Risk Communication Framework
+
+Every testing layer maps to a stakeholder-relevant risk metric:
+
+| Risk | Testing Layer | Metric | Stakeholder |
+|------|---------------|--------|-------------|
+| System down | Smoke | Uptime % (100% = 0-min gap) | Ops / Support |
+| Regression | E2E | Pass rate (94%+) | Product |
+| Data corruption | DB Integrity | Constraint violations (0) | Engineering |
+| API drift | Contract | Schema mismatch count (0) | API team |
+| Invalid tests | Mutation | CFR (0% = every mutant caught) | QA lead |
+| Visual regression | Snapshot | Pixel diff ratio | Design |
+| Performance degradation | Timing | P95 response time | Ops / SRE |
+
+Each metric has a CI gate. If the gate fails, the corresponding risk is reported as unmitigated. No manual interpretation needed.
 
 ---
 

@@ -4,7 +4,8 @@ title: QA/Test Lead Portfolio
 
 # Victor Ematin — AI Quality Engineering Lead
 
-**$0 budget. Production-grade systems. Verifiable results.**
+**$0 budget. Production-grade systems. Verifiable results.**  
+*Technical companion to my CV. For leadership context (teams, processes, stakeholders) → [resume](#).*
 
 ---
 

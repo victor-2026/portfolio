@@ -97,6 +97,8 @@ Grafana: 5 DORA dashboards (Coverage, Health, Quality Gates, DORA Core, AI Agent
 | CI/CD pass rate | 78% | 94% |
 | Budget | $0 | $0 |
 
+> Full AI tool evaluation methodology and lessons learned: [AI Testing Benchmarks — LinkedIn](https://www.linkedin.com/pulse/four-ai-testing-frameworks-dont-compete-mas-agents-kiss-victor-ematin-ktmuf/).
+
 ## Tools
 
 Playwright, TypeScript, Go, Jest, pg, fast-check, Cucumber, ajv + OpenAPI, Pact,

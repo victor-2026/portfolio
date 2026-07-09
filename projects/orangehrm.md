@@ -63,6 +63,8 @@ Open-source HRM system (12 modules: Admin, PIM, Leave, Time, Recruitment, etc.) 
 | POMs | 13 |
 | Test projects in config | 5 (setup, smoke, chromium, auth, local, visual) |
 
+> Playwright Agents deep-dive: [Planner, Generator, Healer in Practice — LinkedIn](https://www.linkedin.com/posts/victor-ematin_testautomation-aitesting-playwright-ugcPost-7472448714876325888-OBLW).
+
 ## Tools
 
 Playwright, TypeScript, POM, Playwright MCP, KISS Sorcar, Playwright Agents,
