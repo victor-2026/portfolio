@@ -42,7 +42,7 @@ Three things every project gets:
 - [OrangeHRM Case Study →](projects/orangehrm)
 - [LinkedIn Performance Analyzer →](projects/linkedin-analyzer)
 - [AI Tool Benchmarks →](leadership/ai-tools-eval)
-- [Resume →](https://github.com/victor-2026)
+- [Resume →](https://www.linkedin.com/in/victor-ematin/)
 
 ---
 
