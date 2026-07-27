@@ -63,4 +63,6 @@ Grafana, GitHub Actions, Allure TestOps, Playwright, Jest, fast-check, Python (c
 
 ## Source
 
-[github.com/victor-2026/Test-Dora-Plus](https://github.com/victor-2026/Test-Dora-Plus)
+[QA → DORA Mapping — LinkedIn Post](https://www.linkedin.com/posts/victor-ematin_qa-dora-mapping-my-pipeline-hit-elite-activity-7473407935860236288-k0Nc)
+
+*Metrics and dashboards from Buzzhive + OrangeHRM projects. Full mapping methodology in the post.*
