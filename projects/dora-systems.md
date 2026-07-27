@@ -8,6 +8,8 @@ title: "Project: DORA Metrics System"
 **Duration:** Ongoing
 **Status:** Live (5 dashboards in Grafana)
 
+**Executive summary:** Replaced static QA reports with live DORA metric dashboards (CFR, MTTR, Lead Time) in Grafana. Linked test results (Allure + Playwright) to deployment frequency and change failure rate — making QA the observability layer, not a reporting layer.
+
 ---
 
 ## Problem

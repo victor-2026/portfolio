@@ -5,9 +5,15 @@ title: QA/Test Lead Portfolio
 # Victor Ematin — AI Quality Engineering Lead
 
 **$0 budget. Production-grade systems. Verifiable results.**  
-*Technical companion to my CV. For leadership context (teams, processes, stakeholders) → [resume](#).*
+*Everything here was built from scratch — no legacy test suite, no existing framework, no budget. Each case study started with zero tests and ended with a complete, self-sustaining QA pipeline.*  
+*Technical companion to my CV. For leadership context (teams, processes, stakeholders) → [LinkedIn resume](https://www.linkedin.com/in/victor-ematin/).*
 
 ---
+
+![Quality Gates](https://img.shields.io/github/actions/workflow/status/victor-2026/qa-automation-playwright/qa.yml?branch=main&label=Quality%20Gates&style=flat-square)
+![Playwright Tests](https://img.shields.io/github/actions/workflow/status/victor-2026/qa-automation-playwright/playwright.yml?branch=main&label=Playwright%20Tests&style=flat-square)
+![Contract Tests](https://img.shields.io/github/actions/workflow/status/victor-2026/qa-automation-playwright/contracts.yml?branch=main&label=Contract%20Tests&style=flat-square)
+![Mutation Tests](https://img.shields.io/github/actions/workflow/status/victor-2026/qa-automation-playwright/mutation.yml?branch=main&label=Mutation%20Tests&style=flat-square)
 
 ## At a Glance
 
