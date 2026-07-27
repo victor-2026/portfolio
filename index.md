@@ -52,4 +52,4 @@ Three things every project gets:
 
 ---
 
-*Full test suites: [qa-automation-playwright](https://github.com/victor-2026/qa-automation-playwright) · [OrangeHRM](https://github.com/victor-2026/OrangeHRM)*
+*Full test suites: [qa-automation-playwright](https://github.com/victor-2026/qa-automation-playwright) · [OrangeHRM](https://github.com/victor-2026/OrangeHRM-demo)*
