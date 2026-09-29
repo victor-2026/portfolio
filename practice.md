@@ -33,7 +33,7 @@ Open methodology + open tooling: [VerdictGate](https://github.com/victor-2026/ve
 | OpenClaw | RMT batches: 53/58 killed (5 survivors adjudicated 1+2+2); 22 killed outright, 0 survived, 2 error-terminated shown |
 | testRigor, FlowScout, DevAssure | M0–M4 verified 3+3; v0.6.2 retest + port fix, both paths verified; re-check 100/100, pilot closed |
 
-Method in full: [How to Evaluate Any AI-QA Vendor in 5 Scenarios](https://www.linkedin.com/pulse/how-evaluate-any-ai-qa-vendor-5-scenarios-victor-ematin-lqdhe/) · [The Calculator](https://www.linkedin.com/pulse/your-vendors-green-report-claim-heres-calculator-checks-victor-ematin-gml4f/) · [The Guided Engineer](https://www.linkedin.com/pulse/qa-didnt-get-replaced-got-promoted-victor-ematin-9jzse/)
+Method in full: [How to Evaluate Any AI-QA Vendor in 5 Scenarios](https://www.linkedin.com/pulse/how-evaluate-any-ai-qa-vendor-5-scenarios-victor-ematin-lqdhe/) · [The Calculator](https://www.linkedin.com/pulse/your-vendors-green-report-claim-heres-calculator-checks-victor-ematin-gml4f/) · [RMT × VerdictGate: Can You Trust a Green Test?](https://www.linkedin.com/pulse/reverse-mutation-testing-verdictgate-can-you-trust-green-lanni-ll41e/) (joint article with Leonardo Lanni, QA Roots) · [The Guided Engineer](https://www.linkedin.com/pulse/qa-didnt-get-replaced-got-promoted-victor-ematin-9jzse/)
 
 ---
 
