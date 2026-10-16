@@ -2,7 +2,7 @@
 title: AI Tool Evaluation
 ---
 
-# AI Tool Evaluation — 9 Tools Benchmarked
+# AI Tool Evaluation — 8 Tools Benchmarked
 
 ## Decision Framework
 
@@ -22,11 +22,11 @@ Every AI tool evaluated across 4 axes before adoption:
 | Tool | Type | Cost | Pass Rate | Best For | Verdict |
 |------|------|------|-----------|----------|---------|
 | **KISS Sorcar** | CLI coding agent | $0.19 total | 3/3 tests | Executable test generation with auto-repair | ✅ Adopted |
-| **Cline** | VS Code agent (OSS) | API only | N/A (file size cap) | Small-file refactoring | ⚠️ Limited |
-| **Continue.dev** | VS Code extension | API only | Weak | Lightweight code assist | ❌ Dropped |
-| **Antigravity** | Google agent platform | Free preview | 10 Go tests, 1 race bug | Go test generation, race detection | ⚠️ Access lost |
-| **Devin** | Autonomous web agent | ~~$500/mo~~ Free (2026) | Pending | Full test suite generation, auto-debug | ⚠️ Free now — pending re-evaluation |
-| **Webwright (MS)** | Research-grade agent | $2.37/test | Research-grade | Exploration, benchmarking | ⚠️ Not production |
+| **Cline** | VS Code agent (OSS) | API only | N/A (file size cap) | Small-file refactoring | ⚠️ Evaluated — limited by file-size cap |
+| **Continue.dev** | VS Code extension | API only | Weak | Lightweight code assist | ❌ Evaluated — dropped (weak QA output) |
+| **Antigravity** | Google agent platform | Free preview | 10 Go tests, 1 race bug | Go test generation, race detection | ⚠️ Evaluated — trial expired (artifacts lost) |
+| **Devin** | Autonomous web agent | ~~$500/mo~~ Free (2026) | 7 tests / 0 green runs | Full test suite generation, auto-debug | ❌ Evaluated — blind on selectors, not adopted |
+| **Webwright (MS)** | Research-grade agent | $2.37/test | Research-grade | Exploration, benchmarking | ⚠️ Evaluated — not production |
 | **Autonoma** | SaaS agent pipeline | $3.62 total | 4/6 steps (overflow at entityAudit) | Full codebase exploration + test gen | ⚠️ Useful but expensive; model auto-switching risk |
 | **Playwright Agents** | 3-agent pipeline | Free | Healer: 3/6 bugs fixed | Visual test repair, infrastructure fixes | ✅ For visual |
 

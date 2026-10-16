@@ -23,7 +23,8 @@ title: QA/Test Lead Portfolio
 | CI/CD Pass Rate | 94% | From 78% — zero false positives |
 | API Coverage | 94% | 49/52 endpoints, contract + schema validated |
 | Mutation Resilience | 34/34 caught | 0% CFR — no mutant escapes |
-| AI Tools Evaluated | 7 | With benchmarked cost and ROI per tool |
+| AI Tools Evaluated | 23 | Executed with evidence — full track record on [Practice →](/practice/) |
+| Articles Published | 20+ | 82K peak impressions, 6K+ followers |
 | Budget | $0 | Entire pipeline — tools, infra, reporting |
 
 ---
@@ -48,6 +49,7 @@ Three things every project gets:
 - [OrangeHRM Case Study →](projects/orangehrm)
 - [LinkedIn Performance Analyzer →](projects/linkedin-analyzer)
 - [AI Tool Benchmarks →](leadership/ai-tools-eval)
+- [Independent Consulting — AI QE →](projects/independent-consulting)
 - [Resume →](https://www.linkedin.com/in/victor-ematin/)
 
 ---
