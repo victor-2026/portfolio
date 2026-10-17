@@ -6,7 +6,7 @@ title: "Independent Practice — AI-QA Verification"
 
 **Victor Ematin · AI Quality Engineering Lead · Independent practice — paid only by results, never up front**
 
-I independently verify AI-powered QA tools: seed known breaks, check whether the tool catches them, deliver a verdict with evidence. Methodology and tooling are open; findings go to the vendor privately first; nothing publishes without consent.
+I independently verify AI-powered QA tools: seed known breaks, check whether the tool catches them, deliver a verdict with evidence. Methodology is open (published); findings go to the vendor privately first; nothing publishes without consent.
 
 ---
 
@@ -19,7 +19,7 @@ I independently verify AI-powered QA tools: seed known breaks, check whether the
 
 **Scope guard:** I verify, I don't fix — no implementation, no remediation.
 
-Open methodology + open tooling: [VerdictGate](https://github.com/victor-2026/verdictgate) (mutation-matrix verdict calculator, MIT).
+Open methodology: [RMT × VerdictGate: Can You Trust a Green Test?](https://www.linkedin.com/pulse/reverse-mutation-testing-verdictgate-can-you-trust-green-lanni-ll41e/) (joint article with Leonardo Lanni, QA Roots).
 
 ---
 
