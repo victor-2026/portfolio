@@ -42,7 +42,7 @@ Four risk tiers with different sensitivity thresholds:
 |-------|------|-------|-------------|
 | QAEverest | QAEverest | Per-risk-tier attestation | 100% B1 gate (414aadd), 10/10 findings |
 | testRigor | testRigor | 6 mutations (M0-M4) | Plain-English: 3/6 PASS. AI-agent: 5/6 PASS |
-| OrangePro | OrangePro | 122 behaviors, ranked graph | Gap analysis + reorder signal |
+| OrangePro | OrangePro | Deterministic behavior mapping | Reproducibility check |
 | Agentiqa | Agentiqa | Planetary-scale assessment | Gap analysis + pilot proposal |
 | DevAssure O2 | DevAssure | Fault injection agent | Agent found bug + invented false positive |
 
